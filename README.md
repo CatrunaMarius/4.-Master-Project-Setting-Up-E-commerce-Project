@@ -1,3 +1,10 @@
+## 4. Project Setting Up E-commerce Project - Reference link
+node-sass[https://www.npmjs.com/package/node-sass]
+ES6 Template Strings[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals]
+Google fonts[https://fonts.google.com/?query=open+sans+condensed&selection.family=Open+Sans+Condensed:wght@300&sidebar.open=true]
+cubic bezier docs[https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function]
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
